@@ -1,0 +1,5 @@
+subscription_id = "REPLACE_WITH_AUTHORIZED_SUBSCRIPTION_ID"
+location        = "westus2"
+student_id      = "yeewi"
+storage_suffix  = "CHANGE_TO_UNIQUE_LOWERCASE_DIGITS"
+enable_blob_role = false

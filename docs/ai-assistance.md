@@ -1,0 +1,2 @@
+# AI assistance disclosure
+ChatGPT drafted initial Terraform files, a Markdown report, an architecture diagram, and troubleshooting/testing instructions based on the assignment. User must run and verify each command. No cloud deployment, RBAC test, or screenshot is claimed to have occurred. Example prompts: “now do this [Cloud Identity & Access Management assignment]”; “create Terraform and report for Blob Storage IAM without Azure subscription access.” Review the generated material against official Azure and Terraform documentation before submission.
